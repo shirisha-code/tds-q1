@@ -13,7 +13,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-EMAIL = "yourmail"
+EMAIL = "23f1002420@ds.study.iitm.ac.in"
 EXAM_ID = "tds-2025-05-roe"
 
 def clean_text(text: str) -> str:
